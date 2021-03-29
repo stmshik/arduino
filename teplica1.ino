@@ -1,6 +1,6 @@
 #include <TroykaDHT.h>// библиотека датчика температуры и влажности
 #include <WindowLib.h> // собственная библиотека
-// new change for git hub
+// new change ssh
 
 int GetTemp_DHT11();// прототип функции
 bool SignalOpenCloze(int TempDHT11, int TempMax, int TempMin);// прототип функции
